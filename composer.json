@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {"Noir\\": "lib/Noir"}
+  },
+  "require": {
+    "phpunit/phpunit": "6"
+  }
+}
